@@ -8,5 +8,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
     <Button>MyFirstButton</Button>
+    <Button>MySecondButton</Button>
     </Grid>
 </Window>
